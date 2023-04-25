@@ -3,7 +3,7 @@
 const grande    = document.querySelector('.grande')
 const punto     = document.querySelectorAll('.punto')
 
-// Cuando CLICK en punto
+// Cuando doy CLICK en punto
     // Saber la posición de ese punto
     // Aplicar un transform translateX al grande
     // QUITAR la clase activo de TODOS puntos
